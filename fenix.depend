@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1508246245 source:d:\projekt silnika 2d\fenix\main.cpp
+	<iostream>
+	<allegro.h>
+	<winalleg.h>
+	<map>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<sstream>
+	<cmath>
+	<exception>
+	"Line.h"
+	"Engine.h"
+	"Point.h"
+	"Figure.h"
+
+1507642503 d:\projekt silnika 2d\fenix\line.h
+
+1508247602 d:\projekt silnika 2d\fenix\engine.h
+
+1507642889 d:\projekt silnika 2d\fenix\point.h
+
+1507642890 d:\projekt silnika 2d\fenix\figure.h
+
+1508499890 source:d:\dev\c++\grafika komputerowa\fenix v0.1\fenix\main.cpp
+	<iostream>
+	<allegro.h>
+	<winalleg.h>
+	<map>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<sstream>
+	<cmath>
+	<exception>
+	"Line.h"
+	"Engine.h"
+	"Point.h"
+	"Figure.h"
+	"Color.h"
+
+1507642503 d:\dev\c++\grafika komputerowa\fenix v0.1\fenix\line.h
+
+1508247640 d:\dev\c++\grafika komputerowa\fenix v0.1\fenix\engine.h
+
+1507642889 d:\dev\c++\grafika komputerowa\fenix v0.1\fenix\point.h
+
+1507642890 d:\dev\c++\grafika komputerowa\fenix v0.1\fenix\figure.h
+
+1508500085 d:\dev\c++\grafika komputerowa\fenix v0.1\fenix\color.h
+
+1508845878 source:c:\users\yelonek\desktop\fenix\main.cpp
+	<iostream>
+	<allegro.h>
+	<winalleg.h>
+	<map>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<sstream>
+	<cmath>
+	<exception>
+	"Variables/Structures.h"
+	"Variables/Static_Variables.h"
+	"Palette/Color.h"
+	"Components/BindAction.h"
+	"Objects/Objects.h"
+	"Composition/Scene.h"
+	"Composition/Layer.h"
+	"Engine/Engine.h"
+	"Animation/Animation.h"
+	"Animation/SpriteAnimationSequence.h"
+
+1508515238 c:\users\yelonek\desktop\fenix\line.h
+
+1508613551 c:\users\yelonek\desktop\fenix\engine.h
+
+1508515239 c:\users\yelonek\desktop\fenix\point.h
+
+1508515239 c:\users\yelonek\desktop\fenix\figure.h
+
+1508500094 c:\users\yelonek\desktop\fenix\color.h
+
+1508615678 c:\users\yelonek\desktop\fenix\composition.h
+	<list>
+
+1508616071 c:\users\yelonek\desktop\fenix\palette.h
+
+1508615692 c:\users\yelonek\desktop\fenix\objects.h
+
+1508517188 c:\users\yelonek\desktop\fenix\animation.h
+
+1508616005 c:\users\yelonek\desktop\fenix\structures.h
+
+1508722277 c:\users\yelonek\desktop\fenix\variables\structures.h
+
+1508722271 c:\users\yelonek\desktop\fenix\palette\color.h
+	"../Variables/Structures.h"
+
+1508715509 c:\users\yelonek\desktop\fenix\objects\objects.h
+	"../Variables/Static_Variables.h"
+	"../Components/BindAction.h"
+
+1508615678 c:\users\yelonek\desktop\fenix\composition\composition.h
+	<list>
+
+1508722105 c:\users\yelonek\desktop\fenix\engine\engine.h
+
+1508517188 c:\users\yelonek\desktop\fenix\animation\animation.h
+
+1508709504 source:c:\users\yelonek\desktop\fenix\palette\color.cpp
+	"../BasicClasses.h"
+	"Color.h"
+
+1508616005 source:c:\users\yelonek\desktop\fenix\variables\structures.cpp
+
+1508632521 c:\users\yelonek\desktop\fenix\basicclasses.h
+	<iostream>
+	<allegro.h>
+	<winalleg.h>
+	<map>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<sstream>
+	<cmath>
+	<exception>
+
+1508710169 source:c:\users\yelonek\desktop\fenix\composition\layer.cpp
+	"../BasicClasses.h"
+	"../Composition/Layer.h"
+
+1508710170 c:\users\yelonek\desktop\fenix\composition\layer.h
+	<list>
+	"../Variables/Structures.h"
+	"../Objects/Objects.h"
+
+1508721823 source:c:\users\yelonek\desktop\fenix\composition\scene.cpp
+	"../BasicClasses.h"
+	"../Composition/Layer.h"
+	"../Composition/Scene.h"
+
+1508721832 c:\users\yelonek\desktop\fenix\composition\scene.h
+	"../Variables/Structures.h"
+	"../Palette/Color.h"
+	"../Composition/Layer.h"
+	<list>
+
+1508715500 source:c:\users\yelonek\desktop\fenix\components\bindaction.cpp
+	"../BasicClasses.h"
+	"BindAction.h"
+
+1508722284 c:\users\yelonek\desktop\fenix\components\bindaction.h
+	"../Variables/Structures.h"
+	"../Objects/Objects.h"
+
+1508714872 c:\users\yelonek\desktop\fenix\variables\static_variables.h
+
+1508845971 source:c:\users\yelonek\desktop\fenix\animation\spriteanimationsequence.cpp
+	"../Animation/SpriteAnimationSequence.h"
+
+1508846343 c:\users\yelonek\desktop\fenix\animation\spriteanimationsequence.h
+
